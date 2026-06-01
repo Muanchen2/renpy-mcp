@@ -1,0 +1,16 @@
+[project]
+name = "renpy-mcp"
+version = "0.2.0"
+description = "Ren'Py MCP Server - AI Agent bridge for Ren'Py visual novel development"
+requires-python = ">=3.12"
+dependencies = [
+    "mcp>=1.0.0",
+    "Pillow>=10.0.0",
+]
+
+[project.scripts]
+renpy-mcp = "renpy_mcp.server:main"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
