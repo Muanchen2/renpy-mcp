@@ -15,7 +15,7 @@ Built with [FastMCP](https://github.com/jlowin/fastmcp).
 
 ### Why?
 
-Ren'Py has no built-in editor. Developers manually write `.rpy` text files and click "Launch Project" to test. This MCP turns any AI agent (Claude, GPT, etc.) into a native Ren'Py development assistant — you describe what you want in natural language, the AI writes valid Ren'Py script, inserts it at the right location, and auto-compiles to verify.
+Ren'Py has no built-in editor. Developers manually write `.rpy` text files and click "Launch Project" to test. This MCP turns any AI agent (Claude, OpenCode,OpenClaw etc.) into a native Ren'Py development assistant — you describe what you want in natural language, the AI writes valid Ren'Py script, inserts it at the right location, and auto-compiles to verify.
 
 ### Tools
 
