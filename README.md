@@ -2,7 +2,7 @@
 
 [English](#english) | [中文](#chinese)
 
-联络网址、communicate website：https://space.bilibili.com/341162425?spm_id_from=333.33.0.0
+联络网址、communicate website：https://space.bilibili.com/341162425?spm_id_from=333.788.0.0
 email：1409634020@qq.com
 
 ---
